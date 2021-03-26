@@ -44,7 +44,7 @@ This is a powershell script which will automatically set up a **Microservices-ba
   docker -v
   ```
 
-  otherwise, you can install it following the instructions on the ufficial website https://www.docker.com/get-started
+  otherwise, you can install it following the instructions on the official website https://www.docker.com/get-started
 
 ## Script Usage
 
@@ -157,4 +157,4 @@ Taking then the image node:12 , copying the content of that folder into `/opt/ap
 
 In `sequelize` we have the folder `migrations` which should be used to create tables (and eventually roll-back) based on schemas which should be created in `/src/db` in a file named `model.js` for example.
 
-# ... Stil in construction
+# ... Still under development (Readme)
